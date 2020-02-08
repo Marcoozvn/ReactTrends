@@ -1,5 +1,5 @@
 # ReactTrends
-A aplicação foi criada com o objetivo de aprender sobre o desenvolvimento mobile com React Native. O ReactTrends é um aplicativo
+A aplicação foi criada com o objetivo de aprender sobre o desenvolvimento mobile com React Native usando o Expo. O ReactTrends é um aplicativo
 para visualizar tweets sobre os integrantes do BBB2020.
 
 <img src="https://github.com/Marcoozvn/ReactTrends/blob/master/assets/splash.png" width="200" height="350">
